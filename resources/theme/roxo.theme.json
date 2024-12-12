@@ -1,0 +1,23 @@
+{
+  "name": "Roxo Theme for Jetbrains",
+  "dark": true,
+  "author": "Rellyson Silva",
+  "editorScheme": "/roxo_theme.xml",
+  "ui": {
+    "*": {
+      "background": "#120d17",
+      "foreground": "#edecee",
+      "selectionBackground": "#523b6b",
+      "selectionInactiveBackground": "#523b6b",
+      "borderColor": "#17121c",
+      "disabledBorderColor": "#17121c",
+      "separatorForeground": "#17121c",
+      "separatorColor": "#17121c",
+      "lineSeparatorColor": "#17121c"
+    },
+    "ToolWindow.Header.inactiveBackground": "#0d1118",
+    "EditorTabs": {
+      "underlinedTabBackground": "#0d1116"
+    }
+  }
+}
